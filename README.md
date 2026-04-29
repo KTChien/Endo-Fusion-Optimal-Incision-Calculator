@@ -8,6 +8,7 @@ This repository provides the Google Colab notebooks, de-identified derived measu
 
 Submitted to *Digital Health*.
 
+The provided datasets contain only fully anonymized derived parametric measurements and do not include any identifiable patient imaging data.
 ---
 
 ## Repository Structure
